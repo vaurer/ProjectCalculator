@@ -4,11 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Calculator calculator = new Calculator();
-        calculator.plus(5, 9);
-        calculator.multiply(5.14, 3.14);
-        calculator.divide(5.12, 3.5);
-        calculator.minus(522, 311.472);
+//        Calculator calculator = new Calculator();
+//        calculator.plus(5, 9);
+//        calculator.multiply(5.14, 3.14);
+//        calculator.divide(5.12, 3.5);
+//        calculator.minus(522, 311.472);
 
         RemainingRangeCalculator remainingRangeCalculator = new RemainingRangeCalculator();
         remainingRangeCalculator.remainingRange(27.5,5.4);
@@ -18,5 +18,11 @@ public class Main {
 
         TaxCalculator taxCalculator = new TaxCalculator();
         taxCalculator.calculateTax(100);
+
+        GeoCalculator geoCalculator = new GeoCalculator();
+        geoCalculator.circleArea(25.5);
+        geoCalculator.circleDiameter(25.5);
+        geoCalculator.circleCircumference(5);
+
     }
 }

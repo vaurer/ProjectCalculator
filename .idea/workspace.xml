@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="260f62b5-ed35-48ea-b2c5-040d6aaccca6" name="Default Changelist" comment="" />
+    <list default="true" id="260f62b5-ed35-48ea-b2c5-040d6aaccca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/va/CC/GeoCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/va/CC/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/va/CC/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aWSHNPR4dnAGE6t83dHot8HE22" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,22 +65,22 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="3005" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587141307034" />
-    <state width="2517" height="390" key="GridCell.Tab.0.bottom" timestamp="1587141983216">
+    <state width="2517" height="390" key="GridCell.Tab.0.bottom" timestamp="1587144505745">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="390" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587141983216" />
-    <state width="2517" height="390" key="GridCell.Tab.0.center" timestamp="1587141983216">
+    <state width="2517" height="390" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587144505745" />
+    <state width="2517" height="390" key="GridCell.Tab.0.center" timestamp="1587144505745">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="390" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587141983216" />
-    <state width="2517" height="390" key="GridCell.Tab.0.left" timestamp="1587141983215">
+    <state width="2517" height="390" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587144505745" />
+    <state width="2517" height="390" key="GridCell.Tab.0.left" timestamp="1587144505745">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="390" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587141983215" />
-    <state width="2517" height="390" key="GridCell.Tab.0.right" timestamp="1587141983216">
+    <state width="2517" height="390" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587144505745" />
+    <state width="2517" height="390" key="GridCell.Tab.0.right" timestamp="1587144505745">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="390" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587141983216" />
+    <state width="2517" height="390" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587144505745" />
     <state width="2517" height="482" key="GridCell.Tab.1.bottom" timestamp="1587139848246">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
@@ -87,5 +97,9 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="482" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587139848246" />
+    <state x="2582" y="320" key="new project wizard" timestamp="1587143208461">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2582" y="320" key="new project wizard/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1587143208461" />
   </component>
 </project>
